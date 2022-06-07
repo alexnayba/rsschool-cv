@@ -12,3 +12,15 @@
 * HTML
 * CSS
 -------------------------------
+### Code example:
+```
+function isValidIP(str) { 
+     return str; 
+}
+```
+------------------------------
+### Education:
+* South Ural State Univesity, Engineer
+----------------------------------------
+### Language skills:
+* English - A2 
