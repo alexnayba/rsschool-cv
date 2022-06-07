@@ -4,4 +4,11 @@
 ------------------------------
 ### Contacts:
 * Location: Chelybinsk
-* email: alexnayba@gmail.com 
+* email: alexnayba@gmail.com
+
+-------------------------------
+### Skills:
+* GIT
+* HTML
+* CSS
+-------------------------------
